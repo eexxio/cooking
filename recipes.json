@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Spaghetti Carbonara",
+        "ingredients": ["Pasta", "Eggs", "Pancetta", "Parmesan Cheese"],
+        "instructions": "Cook pasta, mix eggs, pancetta, and cheese."
+    },
+    {
+        "name": "Chicken Alfredo",
+        "ingredients": ["Chicken", "Fettuccine", "Cream Sauce", "Parmesan Cheese"],
+        "instructions": "Cook chicken, boil pasta, mix with cream sauce and cheese."
+    },
+    {
+        "name": "Vegetable Stir-Fry",
+        "ingredients": ["Mixed Vegetables", "Soy Sauce", "Rice"],
+        "instructions": "Stir-fry vegetables, add soy sauce, serve with rice."
+    }
+]
